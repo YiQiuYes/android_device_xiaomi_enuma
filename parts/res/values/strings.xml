@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023-2024 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Pad Settings</string>
+
+    <!-- Xiaomi Stylus -->
+    <string name="stylus_notification_channel">Xiaomi Stylus</string>
+    <string name="stylus_name">Xiaomi Stylus</string>
+    <string name="stylus_detect_notification">do you want to pair</string>
+    <string name="stylus_enable_compatible_stylus_title">Enable Compatible Stylus Support</string>
+    <string name="stylus_enable_compatible_stylus_summary">When enabled, stylus support will always be active, regardless of whether the Xiaomi Stylus is connected. Restart to Take Effect.</string>
+
+    <!-- Xiaomi Keyboard -->
+    <string name="keyboard_title">Xiaomi Keyboard</string>
+    <string name="keyboard_switch_title">Enable Xiaomi Keyboard</string>
+
+    <!-- Rotation -->
+    <string name="force_rotate_title">Force app rotate</string>
+    <string name="force_rotate_switch_title">Force app rotate</string>
+    <string name="force_rotate_app_list_title">App list</string>
+
+    <!-- Button -->
+    <string name="button_control_title">Headset and Stylus button</string>
+    <string name="headset_button_title">Headser Up/Down button</string>
+    <string name="headset_button_disable">Disable</string>
+    <string name="headset_button_volume">Control volume up/down</string>
+    <string name="headset_button_music">Control play next/previous</string>
+    <string name="stylus_button_title">Stylus button</string>
+    <string name="stylus_button_default">Default</string>
+    <string name="stylus_button_updown">As Up/Down button</string>
+    <string name="stylus_button_volume">Control volume up/down</string>
+    <string name="stylus_button_music">Control play next/previous</string>
+
+    <!-- Stylus -->
+    <string name="stylus_hardware_version_title">Hardware version</string>
+    <string name="stylus_hardware_version_1">Xiaomi Smart Pen (gen 1)</string>
+    <string name="stylus_hardware_version_2">Xiaomi Smart Pen (gen 2)</string>
+
+    <!-- Summary -->
+    <string name="summary_enabled">Enabled</string>
+    <string name="summary_disabled">Disabled</string>
+</resources>

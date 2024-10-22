@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023-2024 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">平板设置</string>
+
+    <!-- Xiaomi Stylus -->
+    <string name="stylus_notification_channel">小米灵感触控笔</string>
+    <string name="stylus_name">小米灵感触控笔</string>
+    <string name="stylus_detect_notification">配对以使用触控笔功能</string>
+    <string name="stylus_enable_compatible_stylus_title">启用第三方兼容触控笔支持</string>
+    <string name="stylus_enable_compatible_stylus_summary">开启后将始终启用触控笔支持，而不论小米触控笔是否已连接（重启以应用更改）</string>
+
+    <!-- Xiaomi Keyboard -->
+    <string name="keyboard_title">小米键盘式双面保护壳</string>
+    <string name="keyboard_switch_title">启用键盘式双面保护壳</string>
+
+    <!-- Rotation -->
+    <string name="force_rotate_title">强制屏幕旋转</string>
+    <string name="force_rotate_switch_title">强制应用支持用户屏幕方向显示</string>
+    <string name="force_rotate_app_list_title">应用列表</string>
+
+    <!-- Button -->
+    <string name="button_control_title">耳机线控及手写笔按键</string>
+    <string name="headset_button_title">耳机线控按键</string>
+    <string name="headset_button_disable">禁用</string>
+    <string name="headset_button_volume">调节音量增加/减少</string>
+    <string name="headset_button_music">播放下一曲/上一曲</string>
+    <string name="stylus_button_title">手写笔按键</string>
+    <string name="stylus_button_default">默认功能</string>
+    <string name="stylus_button_updown">上下翻页</string>
+    <string name="stylus_button_volume">调节音量增加/减少</string>
+    <string name="stylus_button_music">播放下一曲/上一曲</string>
+
+    <!-- Stylus -->
+    <string name="stylus_hardware_version_title">硬件版本</string>
+    <string name="stylus_hardware_version_1">小米灵感触控笔一代</string>
+    <string name="stylus_hardware_version_2">小米灵感触控笔二代</string>
+
+    <!-- Summary -->
+    <string name="summary_enabled">已启用</string>
+    <string name="summary_disabled">已禁用</string>
+</resources>

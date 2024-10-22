@@ -1,0 +1,20 @@
+-keep class org.lineageos.pad_parts.keyboard.* {
+  *;
+}
+
+-keep class org.lineageos.pad_parts.stylus.* {
+  *;
+}
+
+-keep class org.lineageos.pad_parts.rotation.* {
+  *;
+}
+
+-keep class org.lineageos.pad_parts.button.* {
+  *;
+}
+
+# Keep keyhandler constructor
+-keep public class * implements com.android.internal.os.DeviceKeyHandler {
+    public <init>(android.content.Context);
+}

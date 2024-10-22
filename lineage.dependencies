@@ -1,0 +1,20 @@
+[
+  {
+    "remote":"github",
+    "repository": "YiQiuYes/android_device_xiaomi_sm8250-common",
+    "target_path": "device/xiaomi/sm8250-common",
+    "branch": "lineage-21-elish"
+  },
+  {
+    "remote":"github",
+    "repository": "YiQiuYes/android_device_xiaomi_enuma-kernel-prebuilt",
+    "target_path": "device/xiaomi/enuma-prebuilt",
+    "branch": "OS1.0.3.0.TKYCNXM"
+  },
+  {
+    "remote":"gitlab",
+    "repository": "MindTheGapps/vendor_gapps",
+    "target_path": "vendor/gapps",
+    "branch": "upsilon"
+  }
+]

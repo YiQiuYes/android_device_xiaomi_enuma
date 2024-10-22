@@ -1,0 +1,2 @@
+# Peripherals
+vendor.xiaomi_enuma.peripherals::IPeripherals               u:object_r:hal_peripherals_hwservice:s0

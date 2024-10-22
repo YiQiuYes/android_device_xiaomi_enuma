@@ -1,0 +1,13 @@
+//
+// Copyright (C) 2023 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+// Init configuration files
+prebuilt_etc {
+    name: "init.enuma.rc",
+    src: "etc/init.enuma.rc",
+    sub_dir: "init",
+    vendor: true,
+}
