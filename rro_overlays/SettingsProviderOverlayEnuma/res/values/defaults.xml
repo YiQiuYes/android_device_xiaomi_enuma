@@ -18,7 +18,7 @@
 -->
 <resources>
     <!-- Default for Settings.Global.DEVICE_NAME $1=MODEL-->
-    <string name="def_device_name_simple">Xiaomi Pad 5 Pro</string>
+    <string name="def_device_name_simple">Xiaomi Pad 5 Pro 5G</string>
 
     <bool name="def_accelerometer_rotation">true</bool>
 </resources>
