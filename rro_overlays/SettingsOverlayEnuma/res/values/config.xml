@@ -27,9 +27,6 @@
     <!-- Whether or not emergency info tile should display in device info page -->
     <bool name="config_show_emergency_info_in_device_info">false</bool>
 
-    <!-- Whether sim related information is visible to the end user. -->
-    <bool name="config_show_sim_info">false</bool>
-
     <!-- Show battery cycle count -->
     <bool name="config_show_battery_cycle_count">true</bool>
 </resources>
